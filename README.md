@@ -1,7 +1,7 @@
 - 👋 Merhaba, ben Alperen
-- 👀 voleybola ilgiliyim
-- 🌱 ingilizce öğreniyorum
-- 📫 How to reach me ...
+- 👀 yazılıma ilgiliyim
+- 🌱 yazılım dillerini ve kod bloklarını öğreniyorum
+- 📫 bana onbasialperen089876@gmail.com üzerinden ulaşabilirsiniz
 
 <!---
 MangOuO/MangOuO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
